@@ -1,6 +1,6 @@
 Postup spuštění:
-2) Přidat do složky data soubor test.db (obsahující tabulky smlouvy a spotreba)
-3) Spustit main.py
+1Přidat do složky data soubor test.db (obsahující tabulky smlouvy a spotreba)
+2Spustit main.py
 
 Úkoly:
 1) Úprava datumu se provede přímo v tabulce smlouvy, nikam jinam se neukládá
