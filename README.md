@@ -2,7 +2,7 @@ Postup spuštění:
 1) Přidat do složky data soubor test.db (obsahující tabulky smlouvy a spotreba)
 2) Spustit main.py
 
-Úkoly:
+Řešení:
 1) Úprava datumu se provede přímo v tabulce smlouvy, nikam jinam se neukládá
    (navíc funkce kontroluje, jestli jsou všechny měsíce <= 12, viz funkce date_check_ok)
 2) Výstup se uloží do data/task2_result.csv
